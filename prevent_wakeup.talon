@@ -1,4 +1,3 @@
-mode: user.powerpoint
 speech.engine: wav2letter
 
 -
