@@ -1,7 +1,7 @@
 settings():
     user.subtitles_show = false
 
-(let's see the results | Final score of the game | I’ll see you in the next game of Trivia Legends | Our first category will be | The next category is):
+(let's see the answer | let's see the results | Final score of the game | I’ll see you in the next game of Trivia Legends | Our first category will be | The next category is):
     key(l)
 
 Let's turn the volume up:
