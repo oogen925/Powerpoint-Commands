@@ -5,10 +5,10 @@ settings():
     key(l)
 
 Let's turn the volume up:
-    key(volup:13)
+    key(volup:4)
 
 Let's turn the volume down:
-    key(voldown:13)
+    key(voldown:4)
 
 Back to our questions:
     user.relative_move(0.5440263605442177, 0.9255197437238494)
